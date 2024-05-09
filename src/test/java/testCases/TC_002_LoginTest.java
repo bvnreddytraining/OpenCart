@@ -24,16 +24,7 @@ public class TC_002_LoginTest extends BaseClass {
 			logger.info("Clicked on login link in home page..........");
 			
 			LoginPage lp = new LoginPage(driver);
-//			boolean loginConfrm = lp.isLoginScreenDisplayed();
-//			logger.info("Login Confirmation : "+loginConfrm);
-//			if(loginConfrm == true) {
-//				logger.info("Login Page is displayed.....");
-//				Assert.assertTrue(true);
-//			}else {
-//				logger.error("Login Page is not displayed. Please check.");
-//				Assert.assertTrue(false);
-//			}
-			
+
 			logger.info("Login details are provided...");
 			lp.setEmail(p.getProperty("email"));
 			lp.setPassword(p.getProperty("password"));
