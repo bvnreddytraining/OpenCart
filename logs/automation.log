@@ -1,0 +1,33 @@
+08:37:07.303 [main] INFO  testCases.TC_001_AccountRegistrationTest - ************* Starting TC_001_AccountRegistrationTest **************
+08:37:07.392 [main] INFO  testCases.TC_001_AccountRegistrationTest - Cliked on My Account link..
+08:37:08.313 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link...
+08:37:08.313 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details in Register Account page
+08:37:08.608 [main] INFO  testCases.TC_001_AccountRegistrationTest - Checked on privacy policy
+08:41:37.429 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Venkat\BVN Reddy Tutorial\Automation\selenium-workspace\OpenCart\Master.xml"
+08:41:37.677 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Venkat\BVN Reddy Tutorial\Automation\selenium-workspace\OpenCart\Master.xml
+
+08:43:38.005 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Venkat\BVN Reddy Tutorial\Automation\selenium-workspace\OpenCart\Master.xml"
+08:43:38.296 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Venkat\BVN Reddy Tutorial\Automation\selenium-workspace\OpenCart\Master.xml
+
+08:44:07.355 [main] INFO  testCases.TC_001_AccountRegistrationTest - ************* Starting TC_001_AccountRegistrationTest **************
+08:44:07.456 [main] INFO  testCases.TC_001_AccountRegistrationTest - Cliked on My Account link..
+08:44:07.977 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link...
+08:44:07.977 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details in Register Account page
+08:44:08.259 [main] INFO  testCases.TC_001_AccountRegistrationTest - Checked on privacy policy
+08:44:08.321 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue....
+08:44:09.049 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validated the message 'Your Account Has Been Created!' 
+08:44:53.659 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Venkat\BVN Reddy Tutorial\Automation\selenium-workspace\OpenCart\mastersuite.xml"
+08:45:21.367 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+08:51:37.080 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Venkat\BVN Reddy Tutorial\Automation\selenium-workspace\OpenCart\mastersuite.xml"
+08:51:46.107 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+08:51:48.012 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+08:53:20.521 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Venkat\BVN Reddy Tutorial\Automation\selenium-workspace\OpenCart\mastersuite.xml"
+08:53:49.163 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+08:53:54.368 [main] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
+08:58:18.646 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Venkat\BVN Reddy Tutorial\Automation\selenium-workspace\OpenCart\mastersuite.xml"
+09:01:59.753 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Venkat\BVN Reddy Tutorial\Automation\selenium-workspace\OpenCart\mastersuite.xml"
+09:04:53.186 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Venkat\BVN Reddy Tutorial\Automation\selenium-workspace\OpenCart\mastersuite.xml"
+09:06:31.390 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Venkat\BVN Reddy Tutorial\Automation\selenium-workspace\OpenCart\mastersuite.xml"
+09:26:59.065 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Venkat\BVN Reddy Tutorial\Automation\selenium-workspace\OpenCart\mastersuite.xml"

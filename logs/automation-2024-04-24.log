@@ -1,0 +1,50 @@
+10:24:17.051 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@31ff6309: 7 ms
+10:24:17.057 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@173797f0: 0 ms
+10:37:20.343 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Venkat\BVN Reddy Tutorial\Automation\selenium-workspace\OpenCart\Master.xml
+
+10:38:04.055 [main] INFO  testCases.TC_001_AccountRegistrationTest - ************* Starting TC_001_AccountRegistrationTest **************
+10:38:04.274 [main] INFO  testCases.TC_001_AccountRegistrationTest - Cliked on My Account link..
+10:38:04.954 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link...
+10:38:04.954 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details in Register Account page
+10:38:05.474 [main] INFO  testCases.TC_001_AccountRegistrationTest - Checked on privacy policy
+10:38:05.566 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue....
+10:38:06.569 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validated the message 'Your Account Has Been Created!' 
+10:39:32.524 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Venkat\BVN Reddy Tutorial\Automation\selenium-workspace\OpenCart\Master.xml
+
+10:40:12.106 [main] INFO  testCases.TC_001_AccountRegistrationTest - ************* Starting TC_001_AccountRegistrationTest **************
+10:40:12.283 [main] INFO  testCases.TC_001_AccountRegistrationTest - Cliked on My Account link..
+10:40:13.296 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link...
+10:40:13.297 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details in Register Account page
+10:40:14.444 [main] INFO  testCases.TC_001_AccountRegistrationTest - Checked on privacy policy
+10:40:14.543 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue....
+10:40:15.611 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validated the message 'Your Account Has Been Created!' 
+10:41:46.461 [main] INFO  testCases.TC_001_AccountRegistrationTest - ************* Starting TC_001_AccountRegistrationTest **************
+10:41:46.619 [main] INFO  testCases.TC_001_AccountRegistrationTest - Cliked on My Account link..
+10:41:47.458 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link...
+10:41:47.458 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details in Register Account page
+10:41:49.616 [main] INFO  testCases.TC_001_AccountRegistrationTest - Checked on privacy policy
+10:41:49.791 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue....
+10:41:51.584 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validated the message 'Your Account Has Been Created!' 
+10:43:37.717 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Venkat\BVN Reddy Tutorial\Automation\selenium-workspace\OpenCart\Master.xml
+
+10:44:15.771 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ************* Starting TC_001_AccountRegistrationTest **************
+10:44:15.952 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Cliked on My Account link..
+10:44:16.746 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link...
+10:44:16.746 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details in Register Account page
+10:44:17.664 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Checked on privacy policy
+10:44:17.717 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ************* Starting TC_001_AccountRegistrationTest **************
+10:44:17.824 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue....
+10:44:17.983 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Cliked on My Account link..
+10:44:19.056 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link...
+10:44:19.056 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details in Register Account page
+10:44:19.537 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validated the message 'Your Account Has Been Created!' 
+10:44:20.083 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Checked on privacy policy
+10:44:20.398 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue....
+10:44:21.624 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Validated the message 'Your Account Has Been Created!' 
+10:59:17.861 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Venkat\BVN Reddy Tutorial\Automation\selenium-workspace\OpenCart\Master.xml
+
+10:59:50.774 [main] INFO  testCases.TC_001_AccountRegistrationTest - ************* Starting TC_001_AccountRegistrationTest **************
