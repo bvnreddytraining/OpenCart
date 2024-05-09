@@ -1,5 +1,7 @@
 package testCases;
 
 public class TC_007_GitTEST {
-		//Need to Implement the code
+		public void testMethod() {
+			System.out.println("This is my Git Test");
+		}
 }
